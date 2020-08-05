@@ -6,7 +6,6 @@ function TeacherForm(){
         <div id="page-teacher-list" className="container">
         <PageHeader 
             title="Que incrível que você quer dar aulas."
-            description=""
         />
     </div>
     )
